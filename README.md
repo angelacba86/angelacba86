@@ -4,7 +4,7 @@
 
 Soy una desarrolladora Full Stack recién graduada con un gran entusiasmo por aprender y crecer en el campo de la tecnología.
 
-![CODEANDO CON GATO] (https://cdn.dribbble.com/users/2726/screenshots/2362705/angulardribbble.gif)
+![CODEANDO CON GATO](https://cdn.dribbble.com/users/2726/screenshots/2362705/angulardribbble.gif)
 
 ## Lenguajes y herramientas
 
