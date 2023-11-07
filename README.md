@@ -42,7 +42,4 @@ Estoy abierta a colaborar en proyectos interesantes y desafiantes que me permita
 
 Puedes contactarme a través de mi correo electrónico: angelacba86@gmail.com
 
-## Dato curioso
-
-Un dato curioso sobre mí es que soy una cinéfila y me encanta ver películas de todo el mundo. 🎥🍿
 
